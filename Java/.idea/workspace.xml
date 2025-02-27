@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="be22ff80-324b-4712-8f20-cf97e27e3d23" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1xROTeGXP6KTlc1KFclt888irCp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="模块" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.idesettings.debugger.capture" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\Desktop\Documents\Java\Algorithms_4\chapter_2_Sorting\src" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\Desktop\Documents\Java\Algorithms_4\chapter_1_fundamentals\lib" />
+      <recent name="G:\Desktop\Documents\Java\Algorithms_4\lib" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.LSD">
+    <configuration name="EX1_1_13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EX1_1_13" />
+      <module name="chapter_1_fundamentals" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EX1_1_9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EX1_1_9" />
+      <module name="chapter_1_fundamentals" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EX1_3_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EX1_3_4" />
+      <module name="chapter_1_fundamentals" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LSD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LSD" />
+      <module name="chapter_5_string" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Topological" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Topological" />
+      <module name="chapter_4_graph" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LSD" />
+        <item itemvalue="Application.Topological" />
+        <item itemvalue="Application.EX1_1_9" />
+        <item itemvalue="Application.EX1_3_4" />
+        <item itemvalue="Application.EX1_1_13" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="be22ff80-324b-4712-8f20-cf97e27e3d23" name="默认更改列表" comment="" />
+      <created>1630314442540</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1630314442540</updated>
+      <workItem from="1630314444409" duration="2550000" />
+      <workItem from="1630317033143" duration="6687000" />
+      <workItem from="1630331272126" duration="1610000" />
+      <workItem from="1630414576498" duration="3413000" />
+      <workItem from="1630499192801" duration="1195000" />
+      <workItem from="1630656508885" duration="6625000" />
+      <workItem from="1630832583838" duration="4819000" />
+      <workItem from="1630846703824" duration="3793000" />
+      <workItem from="1630892983123" duration="5983000" />
+      <workItem from="1630915915445" duration="12351000" />
+      <workItem from="1635768032636" duration="140000" />
+      <workItem from="1635775900470" duration="101000" />
+      <workItem from="1636768067303" duration="61000" />
+      <workItem from="1647481401219" duration="91000" />
+      <workItem from="1648014057488" duration="7458000" />
+      <workItem from="1648044295641" duration="172000" />
+      <workItem from="1648086948850" duration="2867000" />
+      <workItem from="1648214290312" duration="4067000" />
+      <workItem from="1648259191685" duration="5840000" />
+      <workItem from="1648343425084" duration="1560000" />
+      <workItem from="1648641589314" duration="825000" />
+      <workItem from="1649468241286" duration="20000" />
+      <workItem from="1662712015081" duration="1280000" />
+      <workItem from="1662713316929" duration="183000" />
+      <workItem from="1662713539485" duration="8000" />
+      <workItem from="1662713595276" duration="236000" />
+      <workItem from="1663421671011" duration="41000" />
+      <workItem from="1673849074083" duration="4032000" />
+      <workItem from="1673881538079" duration="5558000" />
+      <workItem from="1674017011451" duration="4560000" />
+      <workItem from="1674101385388" duration="1926000" />
+      <workItem from="1674103530839" duration="2982000" />
+      <workItem from="1674138720787" duration="1295000" />
+      <workItem from="1678353980746" duration="671000" />
+      <workItem from="1679983610775" duration="102000" />
+      <workItem from="1680077439773" duration="263000" />
+      <workItem from="1680079024498" duration="1159000" />
+      <workItem from="1680362860264" duration="260000" />
+      <workItem from="1693814076733" duration="149000" />
+      <workItem from="1740647102722" duration="598000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="658" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1740647102791">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="658" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1740647102791" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/chapter_1_fundamentals/src/Bag.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/chapter_1_fundamentals/src/EX1_1_14.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/chapter_1_fundamentals/src/EX1_1_9.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
